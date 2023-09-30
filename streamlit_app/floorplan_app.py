@@ -164,8 +164,9 @@ with col5:
 # write, centered "Brian Lesko 9/19/2023"
 
 "---"
-col1, col2 = st.columns([1,12])
+
 st.markdown('## My crazy rental property as a college student')
+col1, col2 = st.columns([1,12])
 with col2:
     st.markdown("""
 
