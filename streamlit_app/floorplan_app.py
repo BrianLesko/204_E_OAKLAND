@@ -129,7 +129,7 @@ with col2:
 
 "---"
 
-st.markdownm("""
+st.markdown("""
 
 Hey Its Brian. 
 
