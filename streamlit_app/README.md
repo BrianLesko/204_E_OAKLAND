@@ -2,7 +2,7 @@
 
 # Floorplan demo and Rental property blog 
   
-A [Streamlit](https://streamlit.io/) demo written in [Pure Python](https://github.com/BrianLesko/204_E_OAKLAND/blob/main/streamlit_app/floorplan_app.py) hosted on [Github](https://github.com/BrianLesko) for displaying the floorplan drawings of my rental house - created in AutoCAD. 
+A [Streamlit](https://streamlit.io/) demo written in [Pure Python](https://github.com/BrianLesko/204_E_OAKLAND/blob/main/streamlit_app/floorplan_app.py) hosted on [Github](https://github.com/BrianLesko) for displaying the floorplan drawings of my rental house - created in [AutoCAD](https://www.autodesk.com). 
 
 
 ## Run this demo locally
