@@ -166,12 +166,12 @@ with col5:
 "---"
 
 st.markdown("""
+            
+##2 My crazy rental property as a college student
 
 Since you're checking out my AutoCAD model of 204 E Oakland, I want you to read some notes on what I learned while making it.
 
 But first, I'm going to tell you how I got to making a floorplan for a house that has been around since the early 1900's .. making this house four times my age! - I'm 23 right now. 
-
-### My crazy rental property as a college student
 
 I began my undergraduate degree in mechanical engineering just over 5 years ago, In 2018. Going into university, I was recovering from the first of many surgeries in my years ahead. This surgery was to remove my Stapes, which left me deaf in one ear. 
 Unable to swim on doctors’ orders I found myself looking for something to fill my summer with. I began reading about financial investments - something I had taken a class on in high school. 
@@ -202,13 +202,13 @@ It's now August of 2023, I have 204 rented out to good people this year. Now, Id
 
 Anyways, let’s talk about what I learned when making this AutoCAD plan view of 204. 
 
-#### First let’s talk about accuracy.
+##### First let’s talk about accuracy.
 
 The most effective way to model is to assume each room is a rectangle, but each room is imperfect in its age. With this, modeling older builds are trickier because measurements won’t add up on each side of the room. To mitigate the downsides of this, the best way is to group inaccuracies into the least important dimensions on the floor. Mainly, I focused on making the room shapes and dimensions a higher priority than the hallways.
 
 The second most important aspect in accuracy is wall thickness, I found it most effective to model the house with a constant wall thickness, even though this isn’t exactly true. The homes walls are plaster, which is thicker and thinner in certain areas. This also added error into the model, which again needed to be dispersed across different wall dimensions. 
 
-#### Now let’s talk about clarity. 
+##### Now let’s talk about clarity. 
 
 After receiving my bachelor’s in engineering, I had an advantage from 3D printing and drawing manufactured parts in the past. However, I had even more help from my best friend, Angela, she’s an architecture major - I can’t thank her enough for her input on this plan project and 204 in general. 
 
