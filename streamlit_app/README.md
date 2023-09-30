@@ -6,13 +6,10 @@ A [Streamlit](https://streamlit.io/) demo written in [Pure Python](https://githu
 
 
 ## Links
-Repo Links 
 
 Check out my robust controls repository [here](https://github.com/BrianLesko/RobustControls)
 
 Check out my machine learning and AI repository [here](https://github.com/BrianLesko/MachineLearning)
-
-Social Links 
 
 Check out my LinkedIn [here](https://www.linkedin.com/in/brianlesko/)
 
