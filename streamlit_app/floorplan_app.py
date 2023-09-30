@@ -184,6 +184,8 @@ My grades struggled, but like the summer before college, I found myself with mor
 
 After some time, I found a property that was just a tad bit more brilliant than the rest, and so, without having any idea on how I would fund the project, I toured the property and made an offer. 
 It wasn’t easy deciding on how to fund the down payment – which seemed like an impossible task to an already broke college student. It wasn’t easy qualifying for the loan or conducting all the inspections necessary during the purchase process. But because the numbers were solid, I knew it had to be possible. 
+            
+### The challenges of owning a house
 
 The challenges continued. I had a rough first year and learned the most valuable lessons in real estate. More so than anything I read in a book or saw a guru talk about on Youtube. 
 The risk of owning a house was not often spoken about online. I found myself in a situation where a complete rehab was necessary. My first house, and rental property, slowly was destroyed by the first tenants I had move into the property. The red flags slipping past me, I was distracted by positive background checks, credit reports, and of course the pressure of the mortgage payment.
@@ -200,13 +202,13 @@ It's now August of 2023, I have 204 rented out to good people this year. Now, Id
 
 Anyways, let’s talk about what I learned when making this AutoCAD plan view of 204. 
 
-First let’s talk about accuracy.
+#### First let’s talk about accuracy.
 
 The most effective way to model is to assume each room is a rectangle, but each room is imperfect in its age. With this, modeling older builds are trickier because measurements won’t add up on each side of the room. To mitigate the downsides of this, the best way is to group inaccuracies into the least important dimensions on the floor. Mainly, I focused on making the room shapes and dimensions a higher priority than the hallways.
 
 The second most important aspect in accuracy is wall thickness, I found it most effective to model the house with a constant wall thickness, even though this isn’t exactly true. The homes walls are plaster, which is thicker and thinner in certain areas. This also added error into the model, which again needed to be dispersed across different wall dimensions. 
 
-Now let’s talk about clarity. 
+#### Now let’s talk about clarity. 
 
 After receiving my bachelor’s in engineering, I had an advantage from 3D printing and drawing manufactured parts in the past. However, I had even more help from my best friend, Angela, she’s an architecture major - I can’t thank her enough for her input on this plan project and 204 in general. 
 
