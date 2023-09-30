@@ -171,7 +171,7 @@ Since you're checking out my AutoCAD model of 204 E Oakland, I want you to read 
 
 But first, I'm going to tell you how I got to making a floorplan for a house that has been around since the early 1900's .. making this house four times my age! - I'm 23 right now. 
 
-###My crazy rental property as a college student
+### My crazy rental property as a college student
 
 I began my undergraduate degree in mechanical engineering just over 5 years ago, In 2018. Going into university, I was recovering from the first of many surgeries in my years ahead. This surgery was to remove my Stapes, which left me deaf in one ear. 
 Unable to swim on doctors’ orders I found myself looking for something to fill my summer with. I began reading about financial investments - something I had taken a class on in high school. 
@@ -196,7 +196,7 @@ Finally, in the end of summer of 2022 the tenants who wrecked the place were gon
 
 It's now August of 2023, I have 204 rented out to good people this year. Now, Id rather leave the place empty than rent it to people I am not confident in. The floorplan is not just part of documenting the current state of the house, but also to provide a better experience for future tenants – allowing them to decide if it’s the right place to tour, serving as a guide for furniture placement, and showcasing a little professionalism where it previously lacked. 
  
-###What I learned when making the floorplans
+### What I learned when making the floorplans
 
 Anyways, let’s talk about what I learned when making this AutoCAD plan view of 204. 
 
@@ -222,9 +222,7 @@ In this model, I’ve used the following rules:
 4.	Detailed additions like furniture and cabinetry are added in 0.09 mm line thickness, designated as Fine detail.
 5.	Layer Management. I’ve employed different layers and named them according to MIT's 2022 BIM and CAD drawing standards.
 
-
-
-###Title Blocks
+### Title Blocks
 The last thing Id like to leave in these notes are my thoughts on title blocks.
 I couldn’t find an easy template online that I liked, So I made my own with the important pieces of information: project issue (start) date, Revision number and date, Project Name, Author, and a designation for which direction is north. Ive placed this in the bottom left of of each drawing, which is designated by a double boarder, a standard in engineering drawing.
 
