@@ -167,7 +167,7 @@ with col5:
 
 st.markdown("""
             
-##2 My crazy rental property as a college student
+## My crazy rental property as a college student
 
 Since you're checking out my AutoCAD model of 204 E Oakland, I want you to read some notes on what I learned while making it.
 
