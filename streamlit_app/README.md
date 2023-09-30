@@ -4,13 +4,15 @@
   
 A [Streamlit](https://streamlit.io/) demo written in [Pure Python]() hosted on [Github](https://github.com/BrianLesko) for displaying the floorplan drawings of my rental house - created in AutoCAD. 
 
-## Repo Links 
+
+## Links
+### Repo Links 
 
 Check out my robust controls repository [here](https://github.com/BrianLesko/RobustControls)
 
 Check out my machine learning and AI repository [here](https://github.com/BrianLesko/MachineLearning)
 
-## Social Links 
+### Social Links 
 
 Check out my LinkedIn [here](https://www.linkedin.com/in/brianlesko/)
 
