@@ -252,7 +252,7 @@ with st.expander("Creating this page"):
              Python | Streamlit | PIL | Github | AutoCAD 
              session states | expander | columns | buttons | images | markdown
 
-    Priject Inspirations: 
+    Project Inspirations: 
              Architecture | Design | Drawing | Floorplan | House | Rental 
              Rental Property | Real Estate | Investment Property | Investment
 
