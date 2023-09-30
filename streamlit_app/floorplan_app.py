@@ -166,7 +166,7 @@ with col5:
 "---"
 col1, col2 = st.columns([1,12])
 st.markdown('## My crazy rental property as a college student')
-with st.col2:
+with col2:
     st.markdown("""
 
     Since you're checking out my AutoCAD model of 204 E Oakland, I want you to read some notes on what I learned while making it.
