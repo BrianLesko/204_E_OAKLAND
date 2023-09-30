@@ -6,17 +6,17 @@ A [Streamlit](https://streamlit.io/) demo written in [Pure Python]() hosted on [
 
 
 ## Links
-### Repo Links 
+Repo Links 
 
 Check out my robust controls repository [here](https://github.com/BrianLesko/RobustControls)
 
 Check out my machine learning and AI repository [here](https://github.com/BrianLesko/MachineLearning)
 
-### Social Links 
+Social Links 
 
 Check out my LinkedIn [here](https://www.linkedin.com/in/brianlesko/)
 
-### Run this demo locally
+## Run this demo locally
 ```
 pip install --upgrade streamlit
 streamlit run https://github.com/BrianLesko/Robotics/blob/main/demo-FWRD-DYNM-2R/FWRD-DYNM-2R.py
