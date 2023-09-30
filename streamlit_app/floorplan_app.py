@@ -165,11 +165,12 @@ with col5:
 
 "---"
 
-st.markdown('## My crazy rental property as a college student')
+st.markdown('## My Crazy Rental Property as a College Student')
 col1, col2 = st.columns([1,12])
 with col2:
     st.markdown("""
 
+                
     Since you're checking out my AutoCAD model of 204 E Oakland, I want you to read some notes on what I learned while making it.
 
     But first, I'm going to tell you how I got to making a floorplan for a house that has been around since the early 1900's .. making this house four times my age! - I'm 23 right now. 
