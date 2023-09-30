@@ -5,14 +5,6 @@
 A [Streamlit](https://streamlit.io/) demo written in [Pure Python](https://github.com/BrianLesko/204_E_OAKLAND/blob/main/streamlit_app/floorplan_app.py) hosted on [Github](https://github.com/BrianLesko) for displaying the floorplan drawings of my rental house - created in AutoCAD. 
 
 
-## Links
-
-Check out my robust controls repository [here](https://github.com/BrianLesko/RobustControls)
-
-Check out my machine learning and AI repository [here](https://github.com/BrianLesko/MachineLearning)
-
-Check out my LinkedIn [here](https://www.linkedin.com/in/brianlesko/)
-
 ## Run this demo locally
 ```
 pip install --upgrade streamlit
