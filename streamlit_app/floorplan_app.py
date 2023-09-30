@@ -218,7 +218,8 @@ with col2:
 
     The methodology behind drawing a floor plan starts off simply. Plan views are made by cutting the building at a certain height, usually 4 ft above the floorboards. Anything cut in the process shows up as a line. Anything below the cut line but being hidden is a dashed, hidden line. These show up in places where a wall is cut and beneath that cut line exists a doorframe or other walls that are important to show. This happens on floor 3 with the staircase and on floor 1 with the side door.
 
-    Line thickness rules that I sometimes break
+    ### Line thickness rules that I sometimes break
+                
     Beyond mastering those basics, line thicknesses is the most important modification for clarity. Line thickness adds a feel of depth and hierarchical importance on a floorplan. It distinguishes exterior from interior more clearly than using a single line stroke thickness and it can even show differing materials such as windows and cabinetry. 
 
     In this model, I’ve used the following rules:
