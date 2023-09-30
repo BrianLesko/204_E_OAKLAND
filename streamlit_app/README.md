@@ -1,10 +1,8 @@
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://autocad-eoak-lesko.streamlit.app)
 
 # Floorplan demo and Rental property blog 
-Brian Lesko - 9/30/23
   
 A [Streamlit](https://streamlit.io/) demo written in [Pure Python]() hosted on [Github](https://github.com/BrianLesko) for displaying the floorplan drawings of my rental house - created in AutoCAD. 
-
 
 ### Run this demo locally
 ```
