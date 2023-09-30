@@ -23,19 +23,19 @@ streamlit run https://github.com/BrianLesko/Robotics/blob/main/demo-FWRD-DYNM-2R
 ```
 
 ## Topics 
-### Topics used during creation
+Topics used during creation
 ```
 Python | Streamlit | PIL | Github | AutoCAD 
 session states | expander | columns | buttons | images | markdown
 ```
 
-### Project Inspirations
+Project Inspirations
 ```
 Architecture | Design | Drawing | Floorplan | House | Rental 
 Rental Property | Real Estate | Investment Property | Investment
 ```
 
-### Other project topics
+Other project topics
 ```
 Robotics Engineer | Mechanica | Mechanical Engineering | Software engineer
 ```
