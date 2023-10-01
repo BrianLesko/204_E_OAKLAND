@@ -1,13 +1,19 @@
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://autocad-eoak-lesko.streamlit.app)
-
-# Floorplan demo and Rental property blog 
-  
-A [Streamlit](https://streamlit.io/) demo written in [Pure Python](https://github.com/BrianLesko/204_E_OAKLAND/blob/main/streamlit_app/floorplan_app.py) hosted on [Github](https://github.com/BrianLesko) for displaying the floorplan drawings of my rental house - created in [AutoCAD](https://www.autodesk.com). 
-
-![](preview.gif)
-![](placeholder.png)
+# My Rental Property
+web demos and blog posts
 
 Read about [My Crazy Rental Property as a College Student](https://autocad-eoak-lesko.streamlit.app) on my floorplan app
+
+Posts##
+### AutoCAD Floorplans
+8/15/23
+Plan view of each floor of 204 E Oakland made in AutoCAD using architecture/engineering style line weights and standards
+![](placeholder.png)
+### Floorplan viewer app and Rental property blog 
+9/30/23
+A [Streamlit](https://streamlit.io/) demo written in [Pure Python](https://github.com/BrianLesko/204_E_OAKLAND/blob/main/streamlit_app/floorplan_app.py) hosted on [Github](https://github.com/BrianLesko) for displaying the floorplan drawings of my rental house - created in [AutoCAD](https://www.autodesk.com). 
+![](preview.gif)
+
 
 ## Run this demo locally
 ```
