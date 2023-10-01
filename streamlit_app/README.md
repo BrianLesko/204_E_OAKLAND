@@ -6,6 +6,8 @@ A [Streamlit](https://streamlit.io/) demo written in [Pure Python](https://githu
 
 ![](placeholder.png)
 
+Read about [My Crazy Rental Property as a College Student](https://autocad-eoak-lesko.streamlit.app) on my floorplan app
+
 ## Run this demo locally
 ```
 pip install --upgrade streamlit
