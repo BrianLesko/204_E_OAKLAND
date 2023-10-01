@@ -1,6 +1,6 @@
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://autocad-eoak-lesko.streamlit.app)
 # My Rental Property
-Web hosted demos and blog posts. Read my first post about [My Crazy Rental Property as a College Student](https://autocad-eoak-lesko.streamlit.app) on my floorplan app
+Web hosted demos and blog posts. Read about [My Crazy Rental Property as a College Student](https://autocad-eoak-lesko.streamlit.app) on my floorplan app
 
 ## Projects
 ### AutoCAD Floorplans
