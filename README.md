@@ -4,7 +4,7 @@ web demos and blog posts
 
 Read about [My Crazy Rental Property as a College Student](https://autocad-eoak-lesko.streamlit.app) on my floorplan app
 
-Posts##
+## Projects
 ### AutoCAD Floorplans
 8/15/23
 Plan view of each floor of 204 E Oakland made in AutoCAD using architecture/engineering style line weights and standards
