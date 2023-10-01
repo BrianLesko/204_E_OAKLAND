@@ -9,7 +9,7 @@ Posted plan views of each floor in 204 E Oakland. Using AutoCAD, the drawings we
 ### Floorplan viewer app and Rental property blog - 9/30/23 
 Posted a [Streamlit](https://streamlit.io/) demo written in [Pure Python](https://github.com/BrianLesko/204_E_OAKLAND/blob/main/streamlit_app/floorplan_app.py) hosted on [Github](https://github.com/BrianLesko) for displaying the floorplan drawings of my rental house - created in [AutoCAD](https://www.autodesk.com). 
 
-![](preview.gif)
+![](streamlit_app/preview.gif)
 
 
 ## Run this demo locally
