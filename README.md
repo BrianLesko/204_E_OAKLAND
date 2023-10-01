@@ -4,7 +4,7 @@ Web hosted demos and blog posts. Read about [My Crazy Rental Property as a Colle
 
 ## Projects
 ### AutoCAD Floorplans
-8/15/23 - Posted Plan view of 204 E Oakland's three floors. Each drawing was made in AutoCAD using architecture/engineering style line weights and standards.
+8/15/23 - Posted plan views of each floor in 204 E Oakland. AutoCAD aided drawings using architecture/engineering style line weights and standards.
 ![](placeholder.png)
 ### Floorplan viewer app and Rental property blog 
 9/30/23
