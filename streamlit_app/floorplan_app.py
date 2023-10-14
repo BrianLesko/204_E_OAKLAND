@@ -15,7 +15,7 @@ IMAGE_DIR = "png"
 # Title
 ##################################################################
 
-st.title("204 E OAKLAND DRAWINGS")
+st.title("RENTAL DRAWINGS")
 st.write('Brian Lesko, 9/28/2023')
 '---'
 
